@@ -1,4 +1,4 @@
-package guru.qa.allure;
+package allure;
 
 import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.logevents.SelenideLogger;
